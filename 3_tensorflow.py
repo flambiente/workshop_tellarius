@@ -1,4 +1,3 @@
-
 import tensorflow as tf
 import numpy as np
 import matplotlib
@@ -104,3 +103,9 @@ for i in range(0,5):
 
 ### Explore using Tensorboard
 utils.start_tensorboard(logs_path, iframe=False)
+
+# Script completed! Click on the above link!
+# ======================
+#
+# This example code showcases:
+# - Ability to install and use custom packages (e.g. `pip search tensorflow`)
